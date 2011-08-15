@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>About</h1>
 <p>
   Get help on Ruby on Rails Tutorial at the
@@ -5,3 +6,11 @@
   To get help on this sample app, see the
   <a href="http://railstutorial.org/book">Rails Tutorial book</a>.
 </p>
+=======
+
+    <h1>Contact</h1>
+    <p>
+      Contact Ruby on Rails Tutorial about the sample app at the
+      <a href="http://railstutorial.org/feedback">feedback page</a>.
+    </p>
+>>>>>>> modeling-users
